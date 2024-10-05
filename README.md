@@ -48,29 +48,8 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
 
 ## Output:
-### Data Head:
-![head](https://user-images.githubusercontent.com/93427923/169693675-2a2f8bd7-9a87-49dc-a58c-777969b5f353.png)
+![screencapture-colab-research-google-drive-1ypleXa48d4bfAMq4nS3BFkf-isIgLkhD-2024-10-05-10_02_08](https://github.com/user-attachments/assets/f1311fac-052a-491b-bd4e-3f1fede55530)
 
-### Information:
-![info](https://user-images.githubusercontent.com/93427923/169693680-b6183dca-cdfb-4dad-afef-3badcecd05f9.png)
-
-### Null dataset:
-![null](https://user-images.githubusercontent.com/93427923/169693714-10634ad2-5b16-4db4-8b72-3d7b3babd95f.png)
-
-### Value_counts():
-![left](https://user-images.githubusercontent.com/93427923/169693730-1efadbf5-4cec-4d2b-bbdd-5d29fcaddc36.png)
-
-### Data Head:
-![head2](https://user-images.githubusercontent.com/93427923/169693736-5f392e94-f043-40fa-a0ed-32e89ad2ddb0.png)
-
-### x.head():
-![xhead](https://user-images.githubusercontent.com/93427923/169693739-0365b04f-731b-404b-b914-ef3b5b57c3cf.png)
-
-### Accuracy:
-![accuracy](https://user-images.githubusercontent.com/93427923/169693745-cd8c6451-7622-4ef9-a65c-3d7e3bd661de.png)
-
-### Data Prediction:
-![predict](https://user-images.githubusercontent.com/93427923/169693750-5106819e-ba64-4653-ad7b-b0f06df09a72.png)
 
 
 ## Result:
