@@ -41,7 +41,13 @@ plt.show()
 
 
 ## Output:
-![screencapture-colab-research-google-drive-1ypleXa48d4bfAMq4nS3BFkf-isIgLkhD-2024-10-05-10_02_08](https://github.com/user-attachments/assets/f1311fac-052a-491b-bd4e-3f1fede55530)
+![image](https://github.com/user-attachments/assets/aad0d3b6-953f-4544-9643-378c35e8989a)
+![image](https://github.com/user-attachments/assets/1d615234-6e88-452e-82c1-df7ceb30e99c)
+![image](https://github.com/user-attachments/assets/0fbc1adf-f985-4483-80cb-9a4e1699ca84)
+![image](https://github.com/user-attachments/assets/1612bf18-f5e5-4b0d-a283-dd1d3c9aa560)
+
+
+
 
 
 
