@@ -45,6 +45,9 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/1d615234-6e88-452e-82c1-df7ceb30e99c)
 ![image](https://github.com/user-attachments/assets/0fbc1adf-f985-4483-80cb-9a4e1699ca84)
 ![image](https://github.com/user-attachments/assets/e1bc3a2a-f0c8-4d01-b7a9-c351f74d7c38)
+![image](https://github.com/user-attachments/assets/0cae6eec-3abd-408b-9a85-47b31c6ab098)
+![image](https://github.com/user-attachments/assets/a87c96c8-8a01-46d5-985d-2d5157ea5b11)
+![image](https://github.com/user-attachments/assets/c1b79e35-a08c-49dd-8454-64a5981e7992)
 
 
 
